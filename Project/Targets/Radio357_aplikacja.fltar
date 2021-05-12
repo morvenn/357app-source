@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="PDF"
+  Type="PDF"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  conditions="General.Audience B"
+  ConditionTagExpression=""
+  MasterToc="/Project/TOCs/Master.fltoc"
+  PatchHeadingLevels="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="false"
+    OutputFormat="docx" />
+  <DocumentProperties
+    Author="Magda Niedźwiecka Pruszkowska"
+    Title="[%=General.ProductName%]" />
+  <PDF
+    DownsampleImages="true"
+    PageLayout="SinglePage"
+    TitleBar="DocumentTitle"
+    ImagePPIThreshold="298"
+    CollapsedBookmarks="true" />
+  <Glossaries />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/copy-pdf-to-folder.fldes"
+      Publish="true"
+      IsResource="false" />
+  </Destinations>
+</CatapultTarget>

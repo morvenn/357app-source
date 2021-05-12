@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName"
+    EvaluatedDefinition="Radio 357">Radio 357</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber"
+    EvaluatedDefinition="604 053 166">604 053 166</Variable>
+  <Variable
+    Name="ProductName"
+    Comment=""
+    OriginalName="ProductName"
+    EvaluatedDefinition="Aplikacja mobilna radia 357 - wersja 1.1.2.3 na system Android">Aplikacja mobilna radia 357 - wersja 1.1.2.3 na system Android</Variable>
+  <Variable
+    Name="CityStateZip"
+    Comment=""
+    Definition="Some text"
+    EvaluatedDefinition="Warszawa">Warszawa</Variable>
+  <Variable
+    Name="Year"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2016-02-16T18:02:51.1357833-08:00"
+    EvaluatedDefinition="yyyy">yyyy</Variable>
+  <Variable
+    Name="Email"
+    Comment=""
+    EvaluatedDefinition="morvenn@gmail.com">morvenn@gmail.com</Variable>
+</CatapultVariableSet>

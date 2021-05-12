@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" /><title></title>
+    </head>
+    <body>
+        <div class="topic-hero">
+            <div class="top-bar">
+                <p class="help-title"><MadCap:variable name="General.ProductName" />
+                </p>
+            </div>
+            <div class="topic-layout">
+                <div>
+                    <p>&#160;</p>
+                </div>
+                <div>
+                    <div class="content-container">
+                        <MadCap:topicToolbarProxy style="mc-topic-toolbar-items: ;" data-mc-skin="/Project/Skins/TopicToolBar.flskn" />
+                        <div>
+                            <MadCap:breadcrumbsProxy />
+                            <MadCap:bodyProxy />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

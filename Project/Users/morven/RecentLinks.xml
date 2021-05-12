@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RecentLinks>
+    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
+        <Link Value="C:\Users\morven\Desktop\Podyplomowe\Flare\357app-source\Content\Resources\Images\polaczzpatronite1.jpg" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog" />
+    <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog">
+        <Link Value="C:\Users\morven\Desktop\Podyplomowe\Flare\357app-source\Content\Resources\Snippets\Footer-CreativeCommons.flsnp" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
+        <Link Value="C:\Users\morven\Desktop\Podyplomowe\Flare\357app-source\Content\B_FeatureTopics\Twoje_357.htm" />
+    </Dialog>
+</RecentLinks>

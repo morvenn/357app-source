@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MadCapLog Protocol="2" Description="MadCap Flare 2020 r3 Generated HTML5.fltar" Date="2021-05-12T20:40:24.7587792+02:00">
+    <Messages>Compiling target HTML5...
+Removing previously generated content...
+Loading skin info...
+Gathering Glossary information...
+Gathering Auto-index information...
+Loading Master TOC...
+Processing Master TOC...
+Collecting source files...
+Processing source files...
+Excluded from output:file:///C:/Users/morven/Desktop/Podyplomowe/Flare/357app-source/Content/PDF_cover/Cover.htm.
+Processing CSS: Resources\Stylesheets\MainStyles.css...
+Generating output files...
+Processing topic: Home.htm...
+Topic marked 'not searchable': Home.htm...
+Applying master page HomePage.flmsp...
+Generated Home.htm
+Processing topic: A_IntroductionTopics\pobieranie_instalacja.htm...
+Applying master page OtherTopics.flmsp...
+Generated A_IntroductionTopics\pobieranie_instalacja.htm
+Processing topic: A_IntroductionTopics\minimalne_wymagania.htm...
+Applying master page OtherTopics.flmsp...
+Generated A_IntroductionTopics\minimalne_wymagania.htm
+Processing topic: B_FeatureTopics\Features.htm...
+Applying master page OtherTopics.flmsp...
+Generated B_FeatureTopics\Features.htm
+Processing topic: B_FeatureTopics\Ekran_startowy.htm...
+Applying master page OtherTopics.flmsp...
+Generated B_FeatureTopics\Ekran_startowy.htm
+Processing topic: B_FeatureTopics\Menu_boczne.htm...
+Applying master page OtherTopics.flmsp...
+Generated B_FeatureTopics\Menu_boczne.htm
+Processing topic: B_FeatureTopics\Twoje_357.htm...
+Applying master page OtherTopics.flmsp...
+Generated B_FeatureTopics\Twoje_357.htm
+Processing topic: C_ProcedureTopics\logowanie_i_konto.htm...
+Applying master page OtherTopics.flmsp...
+Generated C_ProcedureTopics\logowanie_i_konto.htm
+Processing topic: C_ProcedureTopics\Zakladanie_konta_357.htm...
+Applying master page OtherTopics.flmsp...
+Generated C_ProcedureTopics\Zakladanie_konta_357.htm
+Processing topic: C_ProcedureTopics\Laczenie z patronite.htm...
+Applying master page OtherTopics.flmsp...
+Generated C_ProcedureTopics\Laczenie z patronite.htm
+Processing topic: C_ProcedureTopics\Po_zalogowaniu.htm...
+Applying master page OtherTopics.flmsp...
+Generated C_ProcedureTopics\Po_zalogowaniu.htm
+Processing topic: Search%2520Results.htm...
+Topic marked 'not searchable': Search%2520Results.htm...
+Applying master page Search.flmsp...
+Generated Search%2520Results.htm
+Generating output skins...
+Generating synonyms file...
+Generating alias file...
+Generating final TOC...
+Generating language strings...
+Generating concept and keyword anchors in output files...
+Generating Index...
+Generating Concepts...
+Generating Template Topics...
+Resolving links in output files...
+Generating Search Database...
+Writing search entry cache...
+Generating final output...
+Generated Skins\Default\Stylesheets\TextEffects.micro-content.css
+Generated Skins\Default\Stylesheets\Topic.micro-content.css
+Generated index.html
+Saving result set...
+Ignored Compiler Warnings: 21
+Output generated in 7 second(s).
+
+Done
+Publishing target HTML5...
+Connecting...
+Uploading files...
+Uploading csh.js... succeeded.
+Uploading index.html... succeeded.
+Uploading index.js... succeeded.
+Uploading index.mcwebhelp... succeeded.
+Uploading index_CSH.html... succeeded.
+Uploading Content/Girard%2520Template%2520Reference%2520Document.pdf... succeeded.
+Uploading Content/Home.htm... succeeded.
+Uploading Content/Search%2520Results.htm... succeeded.
+Uploading Content/A_IntroductionTopics/minimalne_wymagania.htm... succeeded.
+Uploading Content/A_IntroductionTopics/pobieranie_instalacja.htm... succeeded.
+Uploading Content/B_FeatureTopics/Ekran_startowy.htm... succeeded.
+Uploading Content/B_FeatureTopics/Features.htm... succeeded.
+Uploading Content/B_FeatureTopics/Menu_boczne.htm... succeeded.
+Uploading Content/B_FeatureTopics/Twoje_357.htm... succeeded.
+Uploading Content/C_ProcedureTopics/Laczenie z patronite.htm... succeeded.
+Uploading Content/C_ProcedureTopics/logowanie_i_konto.htm... succeeded.
+Uploading Content/C_ProcedureTopics/Po_zalogowaniu.htm... succeeded.
+Uploading Content/C_ProcedureTopics/Zakladanie_konta_357.htm... succeeded.
+Uploading Content/Resources/Images/czerwonyguzik.jpg... succeeded.
+Uploading Content/Resources/Images/laczenie2.jpg... succeeded.
+Uploading Content/Resources/Images/laczenie2_400x558.jpg... succeeded.
+Uploading Content/Resources/Images/menu_glowna_5.jpg... succeeded.
+Uploading Content/Resources/Images/menu_glowna_5_400x841.jpg... succeeded.
+Uploading Content/Resources/Images/napiszdonas9.jpg... succeeded.
+Uploading Content/Resources/Images/napiszdonas9_400x839.jpg... succeeded.
+Uploading Content/Resources/Images/oaplikacji10.jpg... succeeded.
+Uploading Content/Resources/Images/oaplikacji10_400x840.jpg... succeeded.
+Uploading Content/Resources/Images/polaczone4.jpg... succeeded.
+Uploading Content/Resources/Images/polaczone4_400x618.jpg... succeeded.
+Uploading Content/Resources/Images/polaczzpatronite1.jpg... succeeded.
+Uploading Content/Resources/Images/polaczzpatronite1_400x802.jpg... succeeded.
+Uploading Content/Resources/Images/Screenshot_20210507_160210.jpg... succeeded.
+Uploading Content/Resources/Images/Screenshot_20210507_160210_400x808.jpg... succeeded.
+Uploading Content/Resources/Images/Screenshot_glowna3_chromcast.jpg... succeeded.
+Uploading Content/Resources/Images/Screenshot_glowna3_chromcast_400x822.jpg... succeeded.
+Uploading Content/Resources/Images/Screenshot_glowna_1.jpg... succeeded.
+Uploading Content/Resources/Images/Screenshot_glowna_1_400x837.jpg... succeeded.
+Uploading Content/Resources/Images/Screenshot_glowna_2_nosound.jpg... succeeded.
+Uploading Content/Resources/Images/Screenshot_glowna_2_nosound_400x839.jpg... succeeded.
+Uploading Content/Resources/Images/Screenshot_klik_ramowka4.jpg... succeeded.
+Uploading Content/Resources/Images/Screenshot_klik_ramowka4_400x806.jpg... succeeded.
+Uploading Content/Resources/Images/sprawdzmaila3.jpg... succeeded.
+Uploading Content/Resources/Images/sprawdzmaila3_400x484.jpg... succeeded.
+Uploading Content/Resources/Images/stronaglowna_pozalozeniukonta.jpg... succeeded.
+Uploading Content/Resources/Images/stronaglowna_pozalozeniukonta_400x889.jpg... succeeded.
+Uploading Content/Resources/Images/stronatwojekonto_zmiana.jpg... succeeded.
+Uploading Content/Resources/Images/stronatwojekonto_zmiana_400x244.jpg... succeeded.
+Uploading Content/Resources/Images/twoje357_nadzis.jpg... succeeded.
+Uploading Content/Resources/Images/twoje357_nadzis_400x838.jpg... succeeded.
+Uploading Content/Resources/Images/twoje357_pozalozeniukonta.jpg... succeeded.
+Uploading Content/Resources/Images/twoje357_pozalozeniukonta_400x803.jpg... succeeded.
+Uploading Content/Resources/Images/zakladamkonto.jpg... succeeded.
+Uploading Content/Resources/Images/zakladamkonto_400x839.jpg... succeeded.
+Uploading Content/Resources/Images/zaloguj sie_po kliknieciu w menu hamburger.jpg... succeeded.
+Uploading Content/Resources/Images/zaloguj sie_po kliknieciu w menu hamburger_400x694.jpg... succeeded.
+Uploading Content/Resources/Images/zalozonekonto.jpg... succeeded.
+Uploading Content/Resources/Images/zalozonekonto_400x803.jpg... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/Arrows/arrow-down-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/Arrows/arrow-down-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/Arrows/arrow-left-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/Arrows/arrow-left-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/Arrows/arrow-right-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/Arrows/arrow-right-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/Arrows/arrow-up-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/Arrows/arrow-up-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Clients-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Clients-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Clients-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Contact-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Contact-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Contact-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/FAQs-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/FAQs-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/FAQs-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/HamburgerIcon-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/HamburgerIcon-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/HamburgerIcon-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Hello-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Hello-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Hello-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/ManageListsandFAQs-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Notes-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Notes-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Notes-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/PDFs-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/PDFs-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/PDFs-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Search-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Search-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Search-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Services-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Services-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Services-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/SharedFiles-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/SharedFiles-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/SharedFiles-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Solutions-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Solutions-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Solutions-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Tips-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Tips-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/Tips-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/VideosImages-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/VideosImages-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/MainIcons/VideosImages-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/AddSM-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/FB-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/FB-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/FB-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/Insta-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/Insta-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/Insta-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/LI-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/LI-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/LI-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-black.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-gray.png... succeeded.
+Uploading Content/Resources/Images/Assets/Icons/SocialMedia/Twitter-white.png... succeeded.
+Uploading Content/Resources/Images/Assets/Logo/radio357.png... succeeded.
+Uploading Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderIconGreen.png... succeeded.
+Uploading Content/Resources/Images/Assets/Screenshots/instalacja.jpg... succeeded.
+Uploading Content/Resources/Stylesheets/MainStyles.css... succeeded.
+Uploading Data/Breakpoints.js... succeeded.
+Uploading Data/Concepts.js... succeeded.
+Uploading Data/HelpSystem.js... succeeded.
+Uploading Data/HelpSystem.xml... succeeded.
+Uploading Data/Index.js... succeeded.
+Uploading Data/Index_Chunk0.js... succeeded.
+Uploading Data/Language.js... succeeded.
+Uploading Data/Search.js... succeeded.
+Uploading Data/SearchPhrase_Chunk0.js... succeeded.
+Uploading Data/SearchStem_Chunk0.js... succeeded.
+Uploading Data/SearchTopic_Chunk0.js... succeeded.
+Uploading Data/SearchUrl_Chunk0.js... succeeded.
+Uploading Data/Synonyms.js... succeeded.
+Uploading Data/Synonyms.xml... succeeded.
+Uploading Data/Tocs/Master.js... succeeded.
+Uploading Data/Tocs/Master_Chunk0.js... succeeded.
+Uploading Resources/Scripts/foundation.6.2.3_custom.js... succeeded.
+Uploading Resources/Scripts/jquery.min.js... succeeded.
+Uploading Resources/Scripts/MadCapAll.js... succeeded.
+Uploading Resources/Scripts/plugins.min.js... succeeded.
+Uploading Resources/Scripts/require.config.js... succeeded.
+Uploading Resources/Scripts/require.min.js... succeeded.
+Uploading Resources/Scripts/stemmer-english.amd.min.js... succeeded.
+Uploading Skins/Default/Stylesheets/Slideshow.css... succeeded.
+Uploading Skins/Default/Stylesheets/TextEffects.css... succeeded.
+Uploading Skins/Default/Stylesheets/TextEffects.micro-content.css... succeeded.
+Uploading Skins/Default/Stylesheets/Topic.css... succeeded.
+Uploading Skins/Default/Stylesheets/Topic.micro-content.css... succeeded.
+Uploading Skins/Default/Stylesheets/Components/Mobile.css... succeeded.
+Uploading Skins/Default/Stylesheets/Components/Styles.css... succeeded.
+Uploading Skins/Default/Stylesheets/Components/Tablet.css... succeeded.
+Uploading Skins/Default/Stylesheets/Components/Images/collapse.png... succeeded.
+Uploading Skins/Default/Stylesheets/Components/Images/edit-profile.png... succeeded.
+Uploading Skins/Default/Stylesheets/Components/Images/expand.png... succeeded.
+Uploading Skins/Default/Stylesheets/Components/Images/highlight.png... succeeded.
+Uploading Skins/Default/Stylesheets/Components/Images/login.png... succeeded.
+Uploading Skins/Default/Stylesheets/Components/Images/navigate-next.png... succeeded.
+Uploading Skins/Default/Stylesheets/Components/Images/navigate-previous.png... succeeded.
+Uploading Skins/Default/Stylesheets/Components/Images/printer.png... succeeded.
+Uploading Skins/Default/Stylesheets/Components/Images/select-language.png... succeeded.
+Uploading Skins/Default/Stylesheets/Components/Images/select-skin.png... succeeded.
+Uploading Skins/Default/Stylesheets/Components/Images/star-empty.png... succeeded.
+Uploading Skins/Default/Stylesheets/Components/Images/star-full.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/arrow-down.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/arrow-up.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/close.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/collapse.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/edit-profile.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/expand.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/Filter.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/FilterOutline.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/help-control.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/highlight.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/icon-user-gray.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/icon-user-light-gray.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/loading.gif... succeeded.
+Uploading Skins/Default/Stylesheets/Images/login-dialog-icon.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/login.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/MCSlider_controls.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/MCSlider_loader.gif... succeeded.
+Uploading Skins/Default/Stylesheets/Images/navigate-next.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/navigate-previous.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/printer.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/SearchIcon.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/select-language.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/select-skin.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/star-empty.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/star-full.png... succeeded.
+Uploading Skins/Default/Stylesheets/Images/transparent.gif... succeeded.
+Uploading Skins/Fluid/Stylesheets/foundation.6.2.3.css... succeeded.
+Uploading Skins/Fluid/Stylesheets/Mobile.css... succeeded.
+Uploading Skins/Fluid/Stylesheets/Styles.css... succeeded.
+Uploading Skins/Fluid/Stylesheets/Tablet.css... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/arrow-down.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/arrow-up.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/Filter.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/FilterOutline.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/GeneralGreenLogo.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/HamburgerIcon-gray.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/icon-remove.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/icon-search.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/icon-topic.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/icon-user-white.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/Menu.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/radio357.png... succeeded.
+Uploading Skins/Fluid/Stylesheets/Images/SearchIcon.png... succeeded.
+Publish complete.
+Saving log to "C:\Users\morven\Desktop\Podyplomowe\Flare\357app-source\Output\HTML5\HTML5.mclog"
+</Messages>
+    <Warnings />
+    <Errors />
+</MadCapLog>
